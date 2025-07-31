@@ -2,25 +2,25 @@
   {
     "fileName": "test.java",
     "originalPath": "tests\\java\\test.java",
-    "jobId": "2025-07-14__19-43-28.370__GenerateTests",
-    "error": null,
-    "uri": "/ai/jobs/2025-07-14__19-43-28.370__GenerateTests/results/test.java",
-    "downloaded": true
+    "jobId": null,
+    "error": "Error sending file: connect ECONNREFUSED 172.28.13.233:80",
+    "uri": null,
+    "downloaded": false
   },
   {
     "fileName": "teste.js",
     "originalPath": "tests\\js\\teste.js",
-    "jobId": "2025-07-14__19-43-28.768__GenerateTests",
-    "error": null,
-    "uri": "/ai/jobs/2025-07-14__19-43-28.768__GenerateTests/results/teste.js",
-    "downloaded": true
+    "jobId": null,
+    "error": "Error sending file: connect ECONNREFUSED 172.28.13.233:80",
+    "uri": null,
+    "downloaded": false
   },
   {
     "fileName": "teste2.js",
     "originalPath": "tests\\js\\teste2.js",
-    "jobId": "2025-07-14__19-43-29.400__GenerateTests",
-    "error": null,
-    "uri": "/ai/jobs/2025-07-14__19-43-29.400__GenerateTests/results/teste2.js",
-    "downloaded": true
+    "jobId": null,
+    "error": "Error sending file: connect ECONNREFUSED 172.28.13.233:80",
+    "uri": null,
+    "downloaded": false
   }
 ]
